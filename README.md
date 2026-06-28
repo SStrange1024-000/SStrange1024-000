@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sstrange1024-000" alt="sstrange1024-000" /></a> </p>
 
-- 🔭 I’m currently working on **Personal portfolio and blog website**
-
+- 🔭 I have completed my project- **Personal portfolio with content management system**
+  
 - 🌱 I have completed my node js course **Node JS, MongoDb**
 
 - 👨‍💻 All of my projects are available at [My Github Account](My Github Account)
